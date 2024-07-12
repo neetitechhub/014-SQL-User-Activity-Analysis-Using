@@ -33,3 +33,5 @@ return: user_id
 
 7. On what dates there were no logins at all?
 return: login_date
+
+Resource - https://www.youtube.com/watch?v=5kbuhoEw1Xg&t=769s
